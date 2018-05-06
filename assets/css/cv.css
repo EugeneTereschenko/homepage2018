@@ -80,6 +80,11 @@
 		float: left;
 		padding: 42px 0;
 	}
+
+    header .hd {
+		float: left;
+		padding: 42px 0;
+	}
 	
 	header hgroup h1 {
 		color:#555;
